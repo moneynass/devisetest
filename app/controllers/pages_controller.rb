@@ -6,4 +6,7 @@ class PagesController < ApplicationController
 
   def services
   end
+
+  def pricing
+  end
 end
