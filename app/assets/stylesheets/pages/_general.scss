@@ -1,0 +1,27 @@
+/* =============================================================
+GENERAL STYLES
+============================================================ */
+body {
+font-family: 'Ubuntu', sans-serif;
+color: #fff;
+}
+
+section {
+padding-top: 80px;
+padding-bottom: 40px;
+}
+
+.pad-bottom {
+padding-bottom: 60px;
+}
+
+.header {
+font-family: 'Oswald', sans-serif;
+padding-bottom: 40px;
+text-transform: uppercase;
+}
+
+.header hr {
+width: 50px;
+border-top: 2px solid rgb(40, 141, 203);
+}
