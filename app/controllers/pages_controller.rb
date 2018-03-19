@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  skip_before_action :authenticate_user!, only: [:home, :services]
+  skip_before_action :authenticate_user!, only: [:home, :services, :pricing]
 
   def home
   end
