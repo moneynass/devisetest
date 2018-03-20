@@ -1,4 +1,21 @@
-#banner {
+#bckgrd {
   background-image: url("http://res.cloudinary.com/dszqyk3yi/image/upload/v1521472353/briques.jpg");
-  background-size: cover;
+  // background-size: cover;
+  display: flex;
+  position: relative;
 }
+
+#bckgrd_cadre {
+  background-image: url("http://res.cloudinary.com/dszqyk3yi/image/upload/v1521557367/brique_cadre.jpg");
+  // background-size: cover;
+  display: flex;
+  position: relative;
+}
+
+#bckgrd_spring {
+  background-image: url("http://res.cloudinary.com/dszqyk3yi/image/upload/v1521559768/printemps.jpg");
+  // background-size: cover;
+  display: flex;
+  position: relative;
+}
+
